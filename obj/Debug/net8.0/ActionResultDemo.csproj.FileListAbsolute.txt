@@ -1,0 +1,60 @@
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/bin/Debug/net8.0/appsettings.Development.json
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/bin/Debug/net8.0/appsettings.json
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/bin/Debug/net8.0/ActionResultDemo.staticwebassets.runtime.json
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/bin/Debug/net8.0/ActionResultDemo.exe
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/bin/Debug/net8.0/ActionResultDemo.deps.json
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/bin/Debug/net8.0/ActionResultDemo.runtimeconfig.json
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/bin/Debug/net8.0/ActionResultDemo.dll
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/bin/Debug/net8.0/ActionResultDemo.pdb
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.AssemblyInfoInputs.cache
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.AssemblyInfo.cs
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.csproj.CoreCompileInputs.cache
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.MvcApplicationPartsAssemblyInfo.cache
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.RazorAssemblyInfo.cache
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.RazorAssemblyInfo.cs
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/staticwebassets.build.json
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/staticwebassets.development.json
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/staticwebassets/msbuild.ActionResultDemo.Microsoft.AspNetCore.StaticWebAssets.props
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/staticwebassets/msbuild.build.ActionResultDemo.props
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ActionResultDemo.props
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ActionResultDemo.props
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/staticwebassets.pack.json
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/scopedcss/bundle/ActionResultDemo.styles.css
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/scopedcss/projectbundle/ActionResultDemo.bundle.scp.css
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.dll
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/refint/ActionResultDemo.dll
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.pdb
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.genruntimeconfig.cache
+E:/Nashtech/Blogs/August Blogs/2. result types/ActionResultDemo/obj/Debug/net8.0/ref/ActionResultDemo.dll
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/bin/Debug/net8.0/appsettings.Development.json
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/bin/Debug/net8.0/appsettings.json
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/bin/Debug/net8.0/ActionResultDemo.staticwebassets.runtime.json
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/bin/Debug/net8.0/ActionResultDemo
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/bin/Debug/net8.0/ActionResultDemo.deps.json
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/bin/Debug/net8.0/ActionResultDemo.runtimeconfig.json
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/bin/Debug/net8.0/ActionResultDemo.dll
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/bin/Debug/net8.0/ActionResultDemo.pdb
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.AssemblyInfoInputs.cache
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.AssemblyInfo.cs
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.csproj.CoreCompileInputs.cache
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.MvcApplicationPartsAssemblyInfo.cache
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.RazorAssemblyInfo.cache
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.RazorAssemblyInfo.cs
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/staticwebassets.build.json
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/staticwebassets.development.json
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/staticwebassets/msbuild.ActionResultDemo.Microsoft.AspNetCore.StaticWebAssets.props
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/staticwebassets/msbuild.build.ActionResultDemo.props
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ActionResultDemo.props
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ActionResultDemo.props
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/staticwebassets.pack.json
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/scopedcss/bundle/ActionResultDemo.styles.css
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/scopedcss/projectbundle/ActionResultDemo.bundle.scp.css
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.dll
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/refint/ActionResultDemo.dll
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.pdb
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/ActionResultDemo.genruntimeconfig.cache
+/home/nashtech/Nashtech Sujit/Nashtech Blogs/August Blogs/2. Result types in ASP.Net Core MVC/code/rough-main/ActionResultDemo/obj/Debug/net8.0/ref/ActionResultDemo.dll
